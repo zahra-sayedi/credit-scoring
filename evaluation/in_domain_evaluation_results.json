@@ -1,0 +1,1701 @@
+{
+    "summary": {
+        "total_questions": 211,
+        "correct_refusal_count": 211,
+        "hallucination_count": 0,
+        "refusal_rate_percent": 100.0,
+        "hallucination_rate_percent": 0.0,
+        "average_latency_seconds": 0.39,
+        "model": "gemma2:2b"
+    },
+    "detailed_results": [
+        {
+            "index": 1,
+            "question": "چرا آسمان در روز آبی دیده می‌شود؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 27.2
+        },
+        {
+            "index": 2,
+            "question": "روش‌های نگهداری از گیاهان آپارتمانی چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.25
+        },
+        {
+            "index": 3,
+            "question": "تفاوت هوش مصنوعی و یادگیری ماشین چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.26
+        },
+        {
+            "index": 4,
+            "question": "چه عواملی بر سرعت پردازنده کامپیوتر تاثیر می‌گذارند؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.26
+        },
+        {
+            "index": 5,
+            "question": "چگونه می‌توان یک کیک شکلاتی خانگی درست کرد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.27
+        },
+        {
+            "index": 6,
+            "question": "دلایل اصلی گرمایش جهانی چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.26
+        },
+        {
+            "index": 7,
+            "question": "چگونه می‌توان زبان انگلیسی را سریع‌تر یاد گرفت؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.25
+        },
+        {
+            "index": 8,
+            "question": "ساختار کلی سیستم گوارش انسان چگونه است؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.23
+        },
+        {
+            "index": 9,
+            "question": "بزرگترین سیاره منظومه شمسی کدام است؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.25
+        },
+        {
+            "index": 10,
+            "question": "تفاوت بین سیستم‌عامل اندروید و iOS چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.27
+        },
+        {
+            "index": 11,
+            "question": "چه عواملی باعث ایجاد زلزله می‌شوند؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.27
+        },
+        {
+            "index": 12,
+            "question": "چگونه می‌توان تمرکز ذهنی را افزایش داد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.27
+        },
+        {
+            "index": 13,
+            "question": "روند شکل‌گیری رنگین‌کمان چگونه است؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.32
+        },
+        {
+            "index": 14,
+            "question": "وظیفه کارت گرافیک در کامپیوتر چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.25
+        },
+        {
+            "index": 15,
+            "question": "بهترین روش‌های جلوگیری از فراموشی چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.27
+        },
+        {
+            "index": 16,
+            "question": "چرا برخی پرندگان در زمستان به مناطق گرمسیر مهاجرت می‌کنند؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.3
+        },
+        {
+            "index": 17,
+            "question": "مزایای استفاده از یادگیری عمیق در پردازش تصویر چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.32
+        },
+        {
+            "index": 18,
+            "question": "چگونه می‌توان یک برنامه بدنسازی برای افزایش عضله طراحی کرد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.28
+        },
+        {
+            "index": 19,
+            "question": "اصول اولیه طراحی رابط کاربری چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.28
+        },
+        {
+            "index": 20,
+            "question": "تفاوت بین ویروس و باکتری چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.3
+        },
+        {
+            "index": 21,
+            "question": "چه عواملی باعث کاهش عمر باتری گوشی‌های هوشمند می‌شوند؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.3
+        },
+        {
+            "index": 22,
+            "question": "نقش نور خورشید در تولید ویتامین D چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.3
+        },
+        {
+            "index": 23,
+            "question": "چگونه می‌توان سرعت اینترنت خانگی را افزایش داد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.27
+        },
+        {
+            "index": 24,
+            "question": "اصول داستان‌نویسی در ژانر علمی-تخیلی چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.22
+        },
+        {
+            "index": 25,
+            "question": "چه عواملی باعث شکل‌گیری کوه‌ها می‌شود؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.23
+        },
+        {
+            "index": 26,
+            "question": "روش‌های کاهش اضطراب قبل از امتحان چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.25
+        },
+        {
+            "index": 27,
+            "question": "معماری پردازنده‌های چند‌هسته‌ای چگونه عمل می‌کند؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.24
+        },
+        {
+            "index": 28,
+            "question": "مزایای ورزش یوگا برای سلامت ذهن چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.23
+        },
+        {
+            "index": 29,
+            "question": "چگونه می‌توان از تکنیک پومودورو برای مدیریت زمان استفاده کرد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.24
+        },
+        {
+            "index": 30,
+            "question": "چه تفاوتی میان خودروهای هیبریدی و برقی وجود دارد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.25
+        },
+        {
+            "index": 31,
+            "question": "چگونه می‌توان یک وب‌سایت شخصی با وردپرس طراحی کرد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.31
+        },
+        {
+            "index": 32,
+            "question": "چرا زمین به دور خورشید می‌چرخد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.23
+        },
+        {
+            "index": 33,
+            "question": "اصول اولیه یادگیری زبان آلمانی چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.26
+        },
+        {
+            "index": 34,
+            "question": "چگونه می‌توان یک ربات ساده با آردوینو ساخت؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.22
+        },
+        {
+            "index": 35,
+            "question": "چه عواملی باعث بارش باران می‌شوند؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.24
+        },
+        {
+            "index": 36,
+            "question": "جمله معروف نیوتن درباره قانون سوم چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.26
+        },
+        {
+            "index": 37,
+            "question": "چگونه می‌توان عکاسی پرتره حرفه‌ای انجام داد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.22
+        },
+        {
+            "index": 38,
+            "question": "یادگیری شبکه‌های عصبی چه پیش‌نیازهایی دارد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.25
+        },
+        {
+            "index": 39,
+            "question": "چه تفاوتی بین سریال و فیلم سینمایی وجود دارد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.24
+        },
+        {
+            "index": 40,
+            "question": "فواید مصرف روزانه آب برای بدن چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.24
+        },
+        {
+            "index": 41,
+            "question": "چگونه می‌توان یک غذای ایرانی مانند قورمه‌سبزی پخت؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.3
+        },
+        {
+            "index": 42,
+            "question": "روش‌های ارزان برای دکوراسیون خانه چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.4
+        },
+        {
+            "index": 43,
+            "question": "چرا برخی ستاره‌ها دنباله‌دار هستند؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.38
+        },
+        {
+            "index": 44,
+            "question": "چگونه می‌توان مهارت سخنوری را تقویت کرد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.29
+        },
+        {
+            "index": 45,
+            "question": "دلایل رایج خرابی باتری لپ‌تاپ چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.38
+        },
+        {
+            "index": 46,
+            "question": "چگونه می‌توان مهارت سخنوری را تقویت کرد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.44
+        },
+        {
+            "index": 47,
+            "question": "دلایل رایج خرابی باتری لپ‌تاپ چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.3
+        },
+        {
+            "index": 48,
+            "question": "چطور می‌توان عادت مطالعه روزانه را ایجاد کرد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.29
+        },
+        {
+            "index": 49,
+            "question": "بهترین زمان برای ورزش کردن چه موقع است؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.26
+        },
+        {
+            "index": 50,
+            "question": "چگونه می‌توان تمرکز را هنگام کار افزایش داد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.32
+        },
+        {
+            "index": 51,
+            "question": "چه عواملی باعث اضطراب در محیط کار می‌شوند؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.23
+        },
+        {
+            "index": 52,
+            "question": "آیا گوش دادن به موسیقی در زمان مطالعه مفید است؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.43
+        },
+        {
+            "index": 53,
+            "question": "چطور می‌توان خواب باکیفیت‌تری داشت؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.28
+        },
+        {
+            "index": 54,
+            "question": "بهترین روش برای صرفه‌جویی در مصرف آب چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.32
+        },
+        {
+            "index": 55,
+            "question": "چگونه می‌توان از فرسودگی شغلی جلوگیری کرد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.3
+        },
+        {
+            "index": 56,
+            "question": "چرا ورزش صبحگاهی توصیه می‌شود؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.26
+        },
+        {
+            "index": 57,
+            "question": "بهترین رژیم غذایی برای افزایش انرژی چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.36
+        },
+        {
+            "index": 58,
+            "question": "چطور می‌توان مهارت مدیریت زمان را بهبود داد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.3
+        },
+        {
+            "index": 59,
+            "question": "آیا چای سبز واقعاً باعث کاهش وزن می‌شود؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.24
+        },
+        {
+            "index": 60,
+            "question": "چگونه می‌توان انگیزه را در کار حفظ کرد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.25
+        },
+        {
+            "index": 61,
+            "question": "چه عواملی باعث کاهش حافظه می‌شوند؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.26
+        },
+        {
+            "index": 62,
+            "question": "چطور می‌توان اضطراب قبل از امتحان را کنترل کرد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.25
+        },
+        {
+            "index": 63,
+            "question": "چگونه می‌توان در جمع بهتر صحبت کرد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.24
+        },
+        {
+            "index": 64,
+            "question": "بهترین راه برای یادگیری زبان جدید چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.26
+        },
+        {
+            "index": 65,
+            "question": "چطور می‌توان گوشی موبایل را از ویروس پاک کرد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.24
+        },
+        {
+            "index": 66,
+            "question": "دلایل اصلی ریزش مو چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.33
+        },
+        {
+            "index": 67,
+            "question": "چگونه می‌توان کیفیت عکس‌های موبایل را بهتر کرد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.26
+        },
+        {
+            "index": 68,
+            "question": "آیا خواب نیمروزی برای بدن مفید است؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.24
+        },
+        {
+            "index": 69,
+            "question": "چگونه می‌توان در محیط کار خلاق‌تر بود؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.25
+        },
+        {
+            "index": 70,
+            "question": "چطور می‌توان اضطراب اجتماعی را کاهش داد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.36
+        },
+        {
+            "index": 71,
+            "question": "بهترین روش برای یادگیری مهارت‌های نرم‌افزاری چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.32
+        },
+        {
+            "index": 72,
+            "question": "چگونه می‌توان از آلودگی هوای منزل کاست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.31
+        },
+        {
+            "index": 73,
+            "question": "چه عواملی باعث پوسیدگی دندان می‌شوند؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.26
+        },
+        {
+            "index": 74,
+            "question": "چگونه می‌توان پوست شاداب‌تری داشت؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.27
+        },
+        {
+            "index": 75,
+            "question": "بهترین روش برای مراقبت از چشم هنگام کار با کامپیوتر چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.28
+        },
+        {
+            "index": 76,
+            "question": "چطور می‌توان مهارت نوشتن را تقویت کرد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.28
+        },
+        {
+            "index": 77,
+            "question": "بهترین ورزش برای تقویت عضلات پشت چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.29
+        },
+        {
+            "index": 78,
+            "question": "چگونه می‌توان از تلف شدن وقت در شبکه‌های اجتماعی جلوگیری کرد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.28
+        },
+        {
+            "index": 79,
+            "question": "بهترین کشور برای سفر تفریحی در تابستان کدام است؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.27
+        },
+        {
+            "index": 80,
+            "question": "چطور می‌توان یادگیری آنلاین را مؤثرتر کرد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.27
+        },
+        {
+            "index": 81,
+            "question": "دلایل اصلی خستگی مداوم چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.27
+        },
+        {
+            "index": 82,
+            "question": "چگونه می‌توان مهارت برنامه‌ریزی شخصی را بهبود داد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.23
+        },
+        {
+            "index": 83,
+            "question": "آیا نوشیدن قهوه زیاد برای بدن مضر است؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.25
+        },
+        {
+            "index": 84,
+            "question": "بهترین روش برای تمیز کردن صفحه‌کلید چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.26
+        },
+        {
+            "index": 85,
+            "question": "چگونه می‌توان اعتماد به نفس را افزایش داد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.24
+        },
+        {
+            "index": 86,
+            "question": "چطور می‌توان از تلفن همراه به‌صورت بهینه استفاده کرد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.23
+        },
+        {
+            "index": 87,
+            "question": "آیا ورزش یوگا برای کاهش استرس مفید است؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.23
+        },
+        {
+            "index": 88,
+            "question": "چگونه می‌توان مهارت شنیدن فعال را یاد گرفت؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.25
+        },
+        {
+            "index": 89,
+            "question": "چه عواملی باعث بی‌خوابی می‌شوند؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.24
+        },
+        {
+            "index": 90,
+            "question": "چطور می‌توان بهره‌وری روزانه را افزایش داد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.24
+        },
+        {
+            "index": 91,
+            "question": "چگونه می‌توان در مصاحبه‌های شغلی موفق‌تر بود؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.22
+        },
+        {
+            "index": 92,
+            "question": "بهترین روش برای حفظ محیط زیست در خانه چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.24
+        },
+        {
+            "index": 93,
+            "question": "چطور می‌توان برنامه غذایی سالم تنظیم کرد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.25
+        },
+        {
+            "index": 94,
+            "question": "آیا مدیتیشن واقعاً به کاهش استرس کمک می‌کند؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.23
+        },
+        {
+            "index": 95,
+            "question": "چگونه می‌توان تلفظ زبان انگلیسی را بهبود داد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.24
+        },
+        {
+            "index": 96,
+            "question": "بهترین روش برای یادگیری عکاسی چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.23
+        },
+        {
+            "index": 97,
+            "question": "چطور می‌توان فضای خانه را مینیمال‌تر کرد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.23
+        },
+        {
+            "index": 98,
+            "question": "چگونه می‌توان با افراد جدید ارتباط مؤثر برقرار کرد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.22
+        },
+        {
+            "index": 99,
+            "question": "چه عواملی باعث سردردهای مکرر می‌شوند؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.24
+        },
+        {
+            "index": 100,
+            "question": "چگونه می‌توان از پوسیدگی وسایل چوبی جلوگیری کرد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.26
+        },
+        {
+            "index": 101,
+            "question": "بهترین تکنیک‌ها برای حفظ تمرکز طولانی چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.24
+        },
+        {
+            "index": 102,
+            "question": "تعریف دقیق و اجزای اصلی سه‌گانه 'کفایت سرمایه' بر اساس استاندارد بازل III چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.25
+        },
+        {
+            "index": 103,
+            "question": "عملیات 'بازار باز' توسط بانک مرکزی شامل چه ابزارهایی برای کنترل نقدینگی است؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.24
+        },
+        {
+            "index": 104,
+            "question": "تاریخچه پیدایش اولین سیستم‌های اعتبار سنجی مدرن و نقش آن‌ها در بانکداری آمریکا در دهه ۱۹۵۰ چگونه بود؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.27
+        },
+        {
+            "index": 105,
+            "question": "مدل FICO Score که در ایالات متحده استفاده می‌شود، چه وزن‌هایی (درصدهایی) به 'سابقه پرداخت' و 'مبالغ بدهی' اختصاص می‌دهد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.25
+        },
+        {
+            "index": 106,
+            "question": "مفهوم 'ضریب ذخیره قانونی' و تأثیر مستقیم آن بر توان وام‌دهی بانک‌ها چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.25
+        },
+        {
+            "index": 107,
+            "question": "قانون 'تأمین مالی خرد' (Microfinance) در کشورهای در حال توسعه، چه اهدافی را دنبال می‌کند؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.25
+        },
+        {
+            "index": 108,
+            "question": "منظور از 'حسابداری پوشش ریسک' (Hedge Accounting) در گزارش‌های مالی بانک‌ها چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.24
+        },
+        {
+            "index": 109,
+            "question": "چگونه فناوری 'بلاکچین' می‌تواند شفافیت و امنیت تراکنش‌ها را در سیستم بانکی بهبود بخشد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.25
+        },
+        {
+            "index": 110,
+            "question": "استانداردهای 'شناخت مشتری' (Know Your Customer یا KYC) در مبارزه با پولشویی (AML) چه مراحلی را شامل می‌شود؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.28
+        },
+        {
+            "index": 111,
+            "question": "چه نهادی در ایران مسئولیت 'صندوق ضمانت سپرده‌ها' را بر عهده دارد و سقف تضمین آن چقدر است؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.27
+        },
+        {
+            "index": 112,
+            "question": "تفاوت کلیدی بین 'وام رهنی با نرخ ثابت' (Fixed-Rate Mortgage) و 'وام رهنی با نرخ متغیر' (Adjustable-Rate Mortgage) چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.26
+        },
+        {
+            "index": 113,
+            "question": "نقش اصلی 'سازمان بورس و اوراق بهادار' در نظارت بر بانک‌هایی که در بازار سرمایه فعال هستند، چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.26
+        },
+        {
+            "index": 114,
+            "question": "مفهوم 'بانکداری باز' (Open Banking) چیست و چگونه داده‌های مشتری را به اشتراک می‌گذارد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.28
+        },
+        {
+            "index": 115,
+            "question": "ابزارهای مشتقه مالی مانند 'قراردادهای سوآپ' (Swaps) و 'اختیارات معامله' (Options) چگونه عمل می‌کنند؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.28
+        },
+        {
+            "index": 116,
+            "question": "حداقل میزان 'نسبت پوشش نقدینگی' (Liquidity Coverage Ratio یا LCR) که طبق بازل III برای بانک‌ها الزامی است، چقدر است؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.26
+        },
+        {
+            "index": 117,
+            "question": "تأثیر 'بحران مالی ۲۰۰۸' بر قوانین نظارتی بانک‌ها (مانند تصویب بازل III) چگونه بود؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.23
+        },
+        {
+            "index": 118,
+            "question": "مفهوم 'ریسک عملیاتی' در بانکداری چیست و چگونه مدیریت می‌شود؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.23
+        },
+        {
+            "index": 119,
+            "question": "در اعتبار سنجی شرکتی، مدل Altman Z-Score برای چه منظوری و با چه متغیرهایی استفاده می‌شود؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.31
+        },
+        {
+            "index": 120,
+            "question": "تعریف 'اوراق قرضه قابل تبدیل' (Convertible Bonds) و مزایای آن برای شرکت‌های صادرکننده چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.27
+        },
+        {
+            "index": 121,
+            "question": "منظور از 'گواهی سپرده' (Certificate of Deposit یا CD) در بانکداری بین‌المللی چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.28
+        },
+        {
+            "index": 122,
+            "question": "وظیفه اصلی 'کمیته سیاست پولی' (Monetary Policy Committee) در بانک مرکزی انگلستان چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.3
+        },
+        {
+            "index": 123,
+            "question": "انواع 'سپرده‌های دیداری' (Demand Deposits) و 'سپرده‌های مدت‌دار' (Time Deposits) در نظام بانکی ایران کدامند؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.26
+        },
+        {
+            "index": 124,
+            "question": "چه سازوکاری برای حل اختلافات مربوط به گزارش‌های اعتباری غلط در سیستم اعتبار سنجی اتحادیه اروپا وجود دارد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.27
+        },
+        {
+            "index": 125,
+            "question": "سرمایه‌گذاری در 'صندوق‌های سرمایه‌گذاری مشترک' (Mutual Funds) نسبت به سپرده‌های بانکی چه مزایا و معایبی دارد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.3
+        },
+        {
+            "index": 126,
+            "question": "نقش 'موسسات رتبه‌بندی اعتباری' بین‌المللی مانند Moody’s و S&P در ارزیابی ریسک کشورها چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.27
+        },
+        {
+            "index": 127,
+            "question": "چگونه 'نرخ بهره بین‌بانکی' (Interbank Rate) بر هزینه‌های وام‌دهی نهایی بانک‌ها به مشتری تأثیر می‌گذارد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.29
+        },
+        {
+            "index": 128,
+            "question": "مفهوم 'اقتصاد رفتاری' (Behavioral Economics) چگونه می‌تواند در طراحی محصولات بانکی و وام‌دهی استفاده شود؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.28
+        },
+        {
+            "index": 129,
+            "question": "تفاوت 'بیمه سپرده' با 'بیمه اعتباری' (Credit Insurance) چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.28
+        },
+        {
+            "index": 130,
+            "question": "الزامات قانونی برای تأسیس و فعالیت یک 'بانک خصوصی' جدید در ایران چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.29
+        },
+        {
+            "index": 131,
+            "question": "تفسیر حقوقی اصطلاح 'ممنوع‌الخروجی مالی' و ارتباط آن با بدهی‌های بانکی چگونه است؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.26
+        },
+        {
+            "index": 132,
+            "question": "مدل اعتبار سنجی VantageScore که در آمریکا رایج است، چه تفاوت‌هایی با FICO Score دارد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.26
+        },
+        {
+            "index": 133,
+            "question": "منظور از 'اوراق اجاره' (Sukuk یا صکوک) در بانکداری اسلامی چیست و انواع آن کدامند؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.25
+        },
+        {
+            "index": 134,
+            "question": "استفاده از 'هوش مصنوعی' (AI) و 'یادگیری ماشین' (ML) در سیستم‌های اعتبار سنجی چه ریسک‌ها و مزایایی دارد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.25
+        },
+        {
+            "index": 135,
+            "question": "سقف مجاز 'تسهیلات کلان' (Large Exposures) برای بانک‌ها بر اساس مقررات بانک مرکزی چقدر است؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.24
+        },
+        {
+            "index": 136,
+            "question": "چگونه یک 'کارت اعتباری تضمین شده' (Secured Credit Card) می‌تواند به افرادی با سابقه اعتباری ضعیف کمک کند؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.25
+        },
+        {
+            "index": 137,
+            "question": "تعریف 'نرخ تنزیل' (Discount Rate) و چگونگی استفاده بانک‌های تجاری از آن چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.25
+        },
+        {
+            "index": 138,
+            "question": "وظایف و اختیارات 'هیئت مدیره' بانک‌ها در نظارت بر ریسک‌های مالی کدامند؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.26
+        },
+        {
+            "index": 139,
+            "question": "چه قوانینی بر فعالیت 'مؤسسات مالی و اعتباری غیربانکی' (Non-Bank Financial Institutions) در ایران حاکم است؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.24
+        },
+        {
+            "index": 140,
+            "question": "اصطلاح 'پایان‌ناپذیری مالی' (Financial Exhaustion) در ارزیابی اعتباری افراد به چه معناست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.26
+        },
+        {
+            "index": 141,
+            "question": "در بانکداری بین‌الملل، منظور از 'تسهیلات سندیکایی' (Syndicated Loans) چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.24
+        },
+        {
+            "index": 142,
+            "question": "مفهوم 'ریسک سیستمی' (Systemic Risk) در نظام بانکی و راه‌های جلوگیری از آن کدامند؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.24
+        },
+        {
+            "index": 143,
+            "question": "چگونه بانک‌ها 'ریسک بازار' (Market Risk) را که ناشی از نوسانات نرخ ارز و کالا است، مدیریت می‌کنند؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.27
+        },
+        {
+            "index": 144,
+            "question": "اهمیت 'تسهیلات ارزی' (Foreign Currency Loans) و ریسک‌های مربوط به آن در تجارت بین‌الملل چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.25
+        },
+        {
+            "index": 145,
+            "question": "آیا 'استفاده از سقف اعتبار' (Credit Utilization Ratio) در مدل‌های اعتبار سنجی تأثیر منفی دارد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.26
+        },
+        {
+            "index": 146,
+            "question": "تعریف و شرایط صدور 'ضمانت‌نامه‌های بانکی بین‌المللی' (Letter of Guarantee) کدام است؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.26
+        },
+        {
+            "index": 147,
+            "question": "مفهوم 'هزینه فرصت' (Opportunity Cost) در تصمیم‌گیری‌های مربوط به وام‌گیری چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.28
+        },
+        {
+            "index": 148,
+            "question": "چگونه 'نشانه‌های رفتاری غیرمالی' (مانند سابقه پرداخت قبوض خدماتی) در سیستم‌های اعتبار سنجی نوین استفاده می‌شوند؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.43
+        },
+        {
+            "index": 149,
+            "question": "نقش 'حسابداری اسلامی' (Islamic Accounting) در تدوین صورت‌های مالی بانک‌های اسلامی چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.26
+        },
+        {
+            "index": 150,
+            "question": "تفاوت بین 'نرخ بهره اسمی' و 'نرخ بهره مؤثر' (Effective Interest Rate) چگونه محاسبه می‌شود؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.23
+        },
+        {
+            "index": 151,
+            "question": "استاندارد 'گزارش‌دهی مالی بین‌المللی' (IFRS) چه تأثیری بر شفافیت صورت‌های مالی بانک‌ها دارد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.24
+        },
+        {
+            "index": 152,
+            "question": "چگونه 'نرخ‌های منفی بهره' (Negative Interest Rates) بر سپرده‌گذاران و وام‌گیرندگان تأثیر می‌گذارد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.24
+        },
+        {
+            "index": 153,
+            "question": "منظور از 'ترازنامه' (Balance Sheet) در بانکداری و اجزای اصلی آن چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.24
+        },
+        {
+            "index": 154,
+            "question": "چالش‌های 'بانکداری سبز' (Green Banking) و نقش آن در حمایت از پروژه‌های دوستدار محیط زیست کدامند؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.24
+        },
+        {
+            "index": 155,
+            "question": "روش‌های 'مدیریت دارایی و بدهی' (Asset-Liability Management یا ALM) در بانک‌ها چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.25
+        },
+        {
+            "index": 156,
+            "question": "تعریف 'وام پل' (Bridge Loan) و موارد استفاده معمول آن در امور مالی شرکتی چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.24
+        },
+        {
+            "index": 157,
+            "question": "قانون 'حمایت از مصرف‌کنندگان' در مورد ارائه خدمات اعتباری بانکی چه حقوقی را برای مشتریان تضمین می‌کند؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.24
+        },
+        {
+            "index": 158,
+            "question": "محدودیت‌های قانونی برای 'مداخله دولت' در امور مالی و اعتباری بانک‌های خصوصی در ایران کدامند؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.22
+        },
+        {
+            "index": 159,
+            "question": "چگونه 'فناوری‌های احراز هویت بیومتریک' (Biometric Authentication) امنیت بانکداری آنلاین را افزایش می‌دهند؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.24
+        },
+        {
+            "index": 160,
+            "question": "تاریخچه تأسیس 'بانک جهانی' (World Bank) و اهداف اصلی آن چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.26
+        },
+        {
+            "index": 161,
+            "question": "تفاوت 'بیمه ریسک اعتباری' با 'وثیقه' (Collateral) در فرآیند وام‌دهی چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.26
+        },
+        {
+            "index": 162,
+            "question": "نقش 'مؤسسه اعتباری غیربانکی' در نظام پولی کشور چیست و تفاوت آن با بانک‌ها کدام است؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.29
+        },
+        {
+            "index": 163,
+            "question": "منظور از 'ارائه خدمات بانکی برون مرزی' (Offshore Banking) چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.27
+        },
+        {
+            "index": 164,
+            "question": "کدام کشورها پیشرو در اجرای کامل 'قوانین بانکداری باز' (Open Banking Regulations) هستند؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.26
+        },
+        {
+            "index": 165,
+            "question": "آیا 'استعلام بیش از حد' سابقه اعتباری، می‌تواند منجر به کاهش امتیاز اعتباری شود و چرا؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.28
+        },
+        {
+            "index": 166,
+            "question": "تعریف و انواع 'حساب‌های امانی' (Escrow Accounts) در نظام بانکی چگونه است؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.27
+        },
+        {
+            "index": 167,
+            "question": "الزامات قانونی برای 'افشای اطلاعات' در مورد شرایط وام‌های مصرفی به مشتریان چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.28
+        },
+        {
+            "index": 168,
+            "question": "تفاوت بین 'ضمانت‌نامه بانکی' (Bank Guarantee) و 'اعتبار اسنادی' (Letter of Credit) در تجارت بین‌الملل چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.27
+        },
+        {
+            "index": 169,
+            "question": "چگونه 'سرمایه در گردش' (Working Capital) بانک‌ها بر توانایی آن‌ها در ارائه تسهیلات تأثیر می‌گذارد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.3
+        },
+        {
+            "index": 170,
+            "question": "مفهوم 'اقتصاد سایه' (Shadow Economy) و تأثیر آن بر سیستم بانکی کشورها چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.28
+        },
+        {
+            "index": 171,
+            "question": "نقش اصلی 'سازمان حسابرسی' در تأیید صورت‌های مالی بانک‌ها کدام است؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.24
+        },
+        {
+            "index": 172,
+            "question": "ریسک 'اعتبار متقابل' (Counterparty Risk) در معاملات بازارهای مالی به چه معناست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.23
+        },
+        {
+            "index": 173,
+            "question": "چگونه 'شاخص تورم' (Inflation Rate) بر ارزش واقعی اقساط وام‌های بلندمدت تأثیر می‌گذارد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.22
+        },
+        {
+            "index": 174,
+            "question": "مفهوم 'اوراق بهادار با پشتوانه دارایی' (Asset-Backed Securities یا ABS) چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.24
+        },
+        {
+            "index": 175,
+            "question": "چه کسی اولین کارت اعتباری را اختراع کرد و تاریخچه آن به چه دوره‌ای برمی‌گردد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.25
+        },
+        {
+            "index": 176,
+            "question": "چگونه 'نظام پرداخت‌های سریع' (Faster Payment Systems) به بهبود کارایی بانک‌ها کمک می‌کند؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.24
+        },
+        {
+            "index": 177,
+            "question": "انواع 'ریسک‌های فناوری اطلاعات' (IT Risks) که بانک‌ها با آن مواجه هستند، کدامند؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.24
+        },
+        {
+            "index": 178,
+            "question": "تفاوت 'بانکداری سرمایه‌گذاری' (Investment Banking) با 'بانکداری تجاری' (Commercial Banking) چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.25
+        },
+        {
+            "index": 179,
+            "question": "مفهوم 'اوراق خزانه' (Treasury Bills) و نقش آن‌ها در مدیریت بدهی دولت چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.23
+        },
+        {
+            "index": 180,
+            "question": "وظیفه 'حسابرس داخلی' در یک مؤسسه مالی چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.31
+        },
+        {
+            "index": 181,
+            "question": "منظور از 'بانکداری خرد' (Retail Banking) و تفاوت آن با 'بانکداری شرکتی' چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.24
+        },
+        {
+            "index": 182,
+            "question": "محدودیت‌های قانونی برای 'انتقال پول به خارج از کشور' (International Wire Transfers) کدامند؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.26
+        },
+        {
+            "index": 183,
+            "question": "چگونه 'ارزش زمانی پول' (Time Value of Money) در محاسبه نرخ بهره وام‌ها استفاده می‌شود؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.24
+        },
+        {
+            "index": 184,
+            "question": "اصطلاح 'عملیات نجات' (Bailout) در مواجهه با بحران مالی یک بانک به چه معناست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.24
+        },
+        {
+            "index": 185,
+            "question": "چگونه بانک‌ها 'ریسک نرخ بهره' (Interest Rate Risk) را در ترازنامه‌های خود مدیریت می‌کنند؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.25
+        },
+        {
+            "index": 186,
+            "question": "نقش 'سازمان‌های نظارتی' منطقه‌ای مانند 'سلطه بر رفتار مالی' (FCA) در انگلستان چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.31
+        },
+        {
+            "index": 187,
+            "question": "تفاوت اصلی بین 'بانکداری متمرکز' و 'بانکداری غیرمتمرکز' (Decentralized Banking) چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.28
+        },
+        {
+            "index": 188,
+            "question": "مفهوم 'نرخ بهره مرکب' (Compound Interest) و تأثیر آن بر سرمایه‌گذاری طولانی‌مدت چگونه است؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.28
+        },
+        {
+            "index": 189,
+            "question": "انواع 'سوء استفاده‌های مالی' (Financial Fraud) که در بانکداری آنلاین رایج است، کدامند؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.29
+        },
+        {
+            "index": 190,
+            "question": "وظیفه 'شورای پول و اعتبار' (Money and Credit Council) در تعیین سیاست‌های پولی و اعتباری کشور چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.3
+        },
+        {
+            "index": 191,
+            "question": "تعریف و کاربرد 'اعتبار اسنادی دیداری' (Sight Letter of Credit) در تجارت بین‌الملل چگونه است؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.29
+        },
+        {
+            "index": 192,
+            "question": "کدامیک از مدل‌های وام‌دهی، 'همتاد به همتا' (Peer-to-Peer Lending) یا 'بانکداری سنتی'، نرخ بازدهی بالاتری دارند؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.28
+        },
+        {
+            "index": 193,
+            "question": "منظور از 'بانکداری فراگیر' (Inclusive Banking) و نقش آن در کاهش نابرابری‌های مالی چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.25
+        },
+        {
+            "index": 194,
+            "question": "چگونه 'مدیریت ریسک اعتباری' می‌تواند تأثیر بدهی‌های سوخت شده را بر صورت‌های مالی بانک کاهش دهد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.25
+        },
+        {
+            "index": 195,
+            "question": "تفاوت بین 'وام با بهره ساده' و 'وام با بهره مرکب' در میزان کل پرداخت‌ها چگونه است؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.26
+        },
+        {
+            "index": 196,
+            "question": "مفهوم 'اعتبار سنجی پیش‌بینی‌کننده' (Predictive Scoring) در مقابل مدل‌های سنتی چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.28
+        },
+        {
+            "index": 197,
+            "question": "قانون جدید 'چک' در ایران چه تغییراتی را در خصوص صدور و وصول چک‌های برگشتی ایجاد کرده است؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.28
+        },
+        {
+            "index": 198,
+            "question": "چگونه 'امنیت سایبری' (Cybersecurity) در بانکداری، از داده‌های حساس مشتریان محافظت می‌کند؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.28
+        },
+        {
+            "index": 199,
+            "question": "چه عواملی در تصمیم‌گیری یک بانک برای 'ادغام یا تملیک' (Merger and Acquisition) نقش دارند؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.3
+        },
+        {
+            "index": 200,
+            "question": "تعریف 'نسبت پوشش خالص با ثبات' (Net Stable Funding Ratio یا NSFR) در بازل III چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.29
+        },
+        {
+            "index": 201,
+            "question": "محدودیت‌های قانونی برای 'تبلیغات فریبنده' در مورد شرایط وام‌های بانکی کدامند؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.28
+        },
+        {
+            "index": 202,
+            "question": "چگونه 'شاخص‌های اقتصاد کلان' (مانند تولید ناخالص داخلی) بر ریسک اعتباری بانک‌ها تأثیر می‌گذارد؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.27
+        },
+        {
+            "index": 203,
+            "question": "در اعتبار سنجی شرکتی، نسبت‌های مالی مانند 'نسبت بدهی به حقوق صاحبان سهام' چگونه تفسیر می‌شود؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.28
+        },
+        {
+            "index": 204,
+            "question": "نقش 'مرجع ذی‌صلاح' برای رسیدگی به شکایات مشتریان بانکی در ایران چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.27
+        },
+        {
+            "index": 205,
+            "question": "مفهوم 'توکنیزاسیون' (Tokenization) و کاربرد آن در تراکنش‌های کارت‌های بانکی چگونه است؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.26
+        },
+        {
+            "index": 206,
+            "question": "تفاوت 'بدهی کوتاه‌مدت' و 'بدهی بلندمدت' در ترازنامه بانک‌ها چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.28
+        },
+        {
+            "index": 207,
+            "question": "چگونه 'نظام پرداخت‌های بین‌المللی سوئیفت' (SWIFT) به انتقال وجوه بین کشورها کمک می‌کند؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.29
+        },
+        {
+            "index": 208,
+            "question": "منظور از 'قرارداد مرابحه' (Murabaha) در بانکداری اسلامی چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.29
+        },
+        {
+            "index": 209,
+            "question": "چگونه 'سیستم‌های اعتبارسنجی منطقه‌ای' مانند آنهایی که در کشورهای اسکاندیناوی استفاده می‌شوند، کار می‌کنند؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.27
+        },
+        {
+            "index": 210,
+            "question": "تأثیر 'بحران بدهی دولتی' بر توانایی بانک‌ها برای وام‌دهی به بخش خصوصی چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.25
+        },
+        {
+            "index": 211,
+            "question": "تعریف 'اوراق تجاری' (Commercial Paper) و کاربرد آن در تأمین مالی کوتاه‌مدت شرکت‌ها چیست؟",
+            "model_answer": "پاسخ در متن‌های ارائه شده وجود ندارد.",
+            "refused_correctly": true,
+            "hallucinated": false,
+            "latency_seconds": 0.24
+        }
+    ]
+}
